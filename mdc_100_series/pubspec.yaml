@@ -13,6 +13,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+environment:
+
+  sdk: '>=2.10.0 <3.0.0'
+
 flutter:
   # TODO: Insert Fonts (103)
   uses-material-design: true
